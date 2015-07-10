@@ -9,15 +9,16 @@ include 'header.php';
     <section class="title">
         <div class="container">
             <div class="row-fluid">
+
                 <div class="span6">
-                    <h1>Terms of Use</h1>
-                </div>
-                <div class="span6">
-                    <ul class="breadcrumb pull-right">
-                        <li><a href="index.html">Home</a> <span class="divider">/</span></li>
-                        <li><a href="#">Pages</a> <span class="divider">/</span></li>
-                        <li class="active">Terms of Use</li>
+                    <ul class="breadcrumb pull-left">
+                        <li><a href="index.php">الريسية </a> <span class="divider">/</span></li>
+                        <li class="active">من نحن </li>
                     </ul>
+                </div>
+
+                <div class="span6">
+                    <h1 class="text-right">من نحن </h1>
                 </div>
             </div>
         </div>

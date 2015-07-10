@@ -5,7 +5,7 @@ include 'header.php';
 
 
   <section id="registration-page" class="container">
-    <form class="pull-right" dir="rtl" action='' method="POST">
+    <form class="center" dir="rtl" action='' method="POST">
       <fieldset class="registration-form">
          <label for="">username</label>
         <div class="control-group">
