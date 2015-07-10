@@ -12,3 +12,8 @@ ul.address {
 ul.address strong {
 	margin-right: 21px;	
 }
+
+.small_input {
+	width: 242px;
+	min-height: 27px !important;
+}

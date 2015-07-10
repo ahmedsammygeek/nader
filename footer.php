@@ -99,7 +99,7 @@
             </div>
 
              <div class="span5 cp">
-                &copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+                 &copy; 2015 <a target="_blank" href="index.php" title="شركه أكوا العربى">AQUA Elaraby</a>. All Rights Reserved.
             </div>
 
             <div class="span1">
